@@ -1,0 +1,7 @@
+{
+  "name": "Phòng Thí Nghiệm Động Học",
+  "description": "Mô phỏng giáo dục tương tác Vật lí 10 (KNTT): Độ dịch chuyển, Quãng đường, Tốc độ, Vận tốc, Đo tốc độ, Đồ thị d-t, Chuyển động biến đổi và Gia tốc.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
